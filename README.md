@@ -69,5 +69,5 @@ A live, interactive asset management dashboard engineered to track custom multi-
 ## Technical Architecture
 * **Frontend:** `Streamlit` (Interactive UI state management, caching)
 * **Data Processing:** `Pandas`, `NumPy` (Vectorized time-series manipulation, rolling window calculations)
-* **Visualization:** `Plotly Express` (Unified hover-state rendering, interactive web charting)
+* **Visualisation:** `Plotly Express` (Unified hover-state rendering, interactive web charting)
 * **Data Source:** `yfinance` (Live market data ingestion with automated error handling)
